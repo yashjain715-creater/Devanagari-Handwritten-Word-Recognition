@@ -1,0 +1,8 @@
+Add your character set,  for example:
+
+TEAM  : CRUD
+MEMBER : YASH JAIN,  YATHARTH BHARGAVA  AND DEEPAK MEENA 
+
+CHARACTER SET:
+
+क, घ, च, ज, ट, ठ, ढ, थ, प, फ, ब, म, र, ल, ष, स, ह, क्ष, त्र, ज्ञ, ॠ
